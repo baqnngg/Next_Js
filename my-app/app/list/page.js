@@ -5,7 +5,7 @@ import { useState } from 'react';
 export default function List() {
     let 상품 = ['Tomatoes', 'Pizza', 'Pasta'];
 
-    const [quantities, setQuantities] = useState(Array(상품.length).fill(1));
+    const [quantities, setQuantities] = useState(Array(상품.length).fill(0));
 
     const increaseQuantity = (index) => {
         const newQuantities = [...quantities];
