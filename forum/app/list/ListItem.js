@@ -1,7 +1,8 @@
 'use client'
+
 import Link from 'next/link';
 
-export default async function ListItem({result}){
+export default function ListItem({result}){
     return(
         <div>
             {
