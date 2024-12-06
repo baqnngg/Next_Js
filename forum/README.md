@@ -25,3 +25,12 @@ npm run dev
 ```
 http://localhost:3000
 ```
+
+# Features
+- MongoDB
+- Create, Read, Update, Delete
+- Dynamic Route
+- useRoute
+- Query String
+- Static/ Dynamic Rendering
+- Session, Oauth
