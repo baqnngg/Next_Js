@@ -9,7 +9,7 @@ Client/Server 컴포넌트에 대해 학습하였습니다.
 #Introduction
 1. Repository Clone
 ```bash
-git clone === 
+git clone === https://github.com/baqnngg/Next_Js.git
 ```
 
 2. install npm packages
